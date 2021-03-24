@@ -4,27 +4,27 @@ body {
   color: #333;
   font-family: Lato, sans-serif;
 }
-.article {
+header {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
-.article img {
+header img {
   width: 100%;
 }
-.article .more-inf {
+header .more-inf {
   font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
 
-  .article {
+  header {
     text-align: center;
   }
 
 }
-.centered {
+article {
   display: block;
   width: 400px;
   margin: 0 auto 0;
