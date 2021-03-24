@@ -131,7 +131,7 @@ li > button.delete:hover {
 }
 
 /* Completed */
-#completed label {
+.completed label {
   text-decoration: line-through;
   color: #888;
 }
