@@ -13,7 +13,7 @@ header {
 header img {
   width: 100%;
 }
-header .more-inf {
+.more-inf {
   font-family: fantasy, cursive;
 }
 
@@ -125,7 +125,7 @@ li > label {
 li > input[type="text"] {
   width: 226px;
 }
-li > button.delete:hover {
+li > .delete:hover {
   color: #cf2323;
 }
 .delete img {
